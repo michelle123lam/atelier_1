@@ -141,6 +141,9 @@ p {
 
 .input-button {
     background-color: #000;
+    font-family: BrandonGrotesque-Light;
+    font-size: 18px;
+    line-height: 26px;
 }
 
 
