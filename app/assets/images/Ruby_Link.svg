@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="377px" height="125px" viewBox="0 0 377 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>Web link preview</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Flow-V4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="F" sketch:type="MSArtboardGroup" transform="translate(-555.000000, -624.000000)">
+            <g id="Web-link-preview" sketch:type="MSLayerGroup" transform="translate(556.000000, 625.432000)">
+                <rect id="Rectangle-7" stroke="#C7C5C7" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="375" height="123"></rect>
+                <text id="Learn-Ruby-on-Rails!" sketch:type="MSTextLayer" font-family="Brandon Grotesque" font-size="24" font-weight="686" fill="#9B9B9B">
+                    <tspan x="77" y="44">Learn Ruby on Rails!</tspan>
+                </text>
+                <rect id="Rectangle-8" fill="#F1F1F1" sketch:type="MSShapeGroup" x="11" y="16" width="54" height="95"></rect>
+                <rect id="Rectangle-8-Copy" fill="#F1F1F1" sketch:type="MSShapeGroup" x="77" y="58" width="284" height="53"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,147 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'brandon-grotesque',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight:300;
+    color: #000;
+    background-color: #fff;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+h1,
+h2 {
+    font-family: 'brandon-grotesque',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+h3,
+h4,
+h5,
+h6,
+
+p {
+
+}
+
+.img-centered {
+    margin: 0 auto;
+}
+
+.status-complete {
+    font-family: BrandonGrotesque-Light;
+    font-size: 16px;
+    color: #43D494;
+    line-height: 26px;
+}
+
+.status-pending {
+    font-family: BrandonGrotesque-Light;
+    font-size: 16px;
+    color: #FFA76A;
+    line-height: 26px;
+}
+
+.feed-bold {
+    font-family: BrandonGrotesque-Bold;
+    font-size: 20px;
+    color: #4A4A4A;
+    line-height: 34px;
+}
+
+.feed {
+    font-family: BrandonGrotesque-Light;
+    font-size: 20px;
+    color: #4A4A4A;
+    line-height: 34px;
+}
+
+.nav-sidebar{
+    background: #5D5D5D;
+    position: fixed;
+    height: 100%;
+    width: 469px;
+    top: 0;
+    left: 0;
+}
+.nav-sidebar-task {
+    font-family: BrandonGrotesque-Light;
+    font-size: 20px;
+    color: #9B9B9B;
+    line-height: 34px;
+}
+
+.nav-sidebar-letter {
+    font-family: BrandonGrotesque-Thin;
+    font-size: 36px;
+    color: #9B9B9B;
+    line-height: 52px;
+}
+.nav-sidebar-header {
+    font-family: BrandonGrotesque-Regular;
+    font-size: 24px;
+    color: #fff;
+    line-height: 34px; 
+}
+.nav-sidebar-selected {
+    font-family: BrandonGrotesque-Bold;
+    font-size: 36px;
+    color: #fff;
+    line-height: 52px;
+}
+
+.row {
+    padding-bottom: 15px;
+    display:flex;
+    align-items:center;
+}
+
+.chat {
+    /*background: #F3F3F3;*/
+    /*position: fixed;*/
+    /*background-size: 25% auto;*/
+    /*background-image: url('images/Background.svg');*/
+    background-size: 50% 100%;
+    background-repeat: no-repeat;
+}
+
+.btn {
+    background: 0;
+    outline: 0;
+    color: #fff;
+    opacity: 1;
+    font-family: BrandonGrotesque-Light;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.btn:hover,
+.btn:focus,
+.btn.focus {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.5;
+}
+
+.nav-bottombar{
+    background: #fff;
+    outline: 1px solid #4A4A4A;
+    opacity: 0.95;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+.field {
+    outline: 1px solid #4A4A4A;
+}
+
+.input-button {
+    background-color: #000;
+}
+
+
+

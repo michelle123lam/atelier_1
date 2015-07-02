@@ -14,3 +14,6 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+//= require bootstrap.js
+//= require semantic-ui/dist/semantic.js
+//= require atelier.js
